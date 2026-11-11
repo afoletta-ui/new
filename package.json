@@ -1,0 +1,15 @@
+{
+  "name": "sea-drive",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
